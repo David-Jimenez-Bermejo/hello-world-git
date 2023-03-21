@@ -1,5 +1,8 @@
 Soy un readme.
 
+# Versión
+Version actual: 1.2.2
+
 # Formatos de Cabecera
 # Cabecera H1
 ## Cabecera H2
